@@ -6,6 +6,8 @@
 
 => npm install --save vue@next && npm install --save-dev vue-loader@next
 
+=> npm install vue-router@next --save
+
 # Prepare Mix for Vue
 => mix.js('resources/js/app.js', 'public/js') .vue() .postCss('resources/css/app.css', 'public/css', [ // ]);
 
